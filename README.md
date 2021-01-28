@@ -1,1 +1,30 @@
-# angular-feature-exercise
+Here is a list of those features will be working on:
+
+- [ ] Start from the official quick-start and CLI
+- [ ] Client side routing
+  - [ ] Main routes Dasboard, Places Components, Admin, About
+  - [ ] Components menu includes sub menus like Forms, R JS
+  - [ ] Handles on erroneos route, leading to PageNotFound component
+- [ ] On Places CRUD operation can be done
+  - [ ] Places will be present in dashboard and also as menu, if we click on dashboard it will redirect to menu with edit option
+- [ ] Login will present on the right side, if login then admin can be accessed else toast message should be displayed for denial
+  - [ ] Login/Logout button will displayed
+- [ ] Sub menus
+  - [ ] Forms : Using formbuilder, reactive forms, form groups(https://medium.com/swlh/how-to-create-a-complex-form-in-angular-bdfaee0464d3)
+  	- [ ] Validation and Ngrx  to switch forth between sections
+  - [ ] RxJS
+- [ ] Core features
+  - [ ] Guards,
+  - [ ] interceptors(e : for adding authHeader)
+  - [ ] models
+  - [ ] strategies
+  - [ ] page not found
+  - [ ] spinner service
+  - [ ] Toast service
+- [ ] Generic components
+  - [ ] Modal
+  - [ ] Button Tool
+  - [ ] Card
+  - [ ] Header bar
+  - [ ] List header
+  - [ ] Nav bar
